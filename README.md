@@ -2,6 +2,7 @@
 
 This project demonstrates an **end to end data science pipeline**, from data cleaning and advanced feature engineering in PostgreSQL to building and validating production-ready Machine Learning models for a fictitious ride sharing company.
 
+Tables for this Project, has made with Random function, so it's not real, however it has been designed to be close to the real world. it is obvious some analysis are not seems to be real.
 ***
 
 ## I. Business Objectives
