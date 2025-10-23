@@ -1,6 +1,6 @@
 #  Uber Logistics Optimization & Predictive Pricing
 
-This project demonstrates an **end-to-end data science pipeline**, from data cleaning and advanced feature engineering in PostgreSQL to building and validating production-ready Machine Learning models for a fictitious ride-sharing company.
+This project demonstrates an **end to end data science pipeline**, from data cleaning and advanced feature engineering in PostgreSQL to building and validating production-ready Machine Learning models for a fictitious ride sharing company.
 
 ***
 
